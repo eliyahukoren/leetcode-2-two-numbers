@@ -12,7 +12,13 @@
 
 ##
 
-![](https://img.shields.io/github/actions/workflow/status/eliyahukoren/leetcode-2-two-numbers/actions.yml?label=2%20LeetCode&logo=logo)
+![](https://img.shields.io/github/actions/workflow/status/eliyahukoren/leetcode-2-two-numbers/actions.yml?label=2.%20Add%20Two%20Numbers%20/%20LeetCode&logo=logo)
+
+##
+
+![Language](https://img.shields.io/badge/Language-Javascript-crimson)
+
+![License](https://img.shields.io/github/license/eliyahukoren/leetcode-2-two-numbers?color=any)
 
 **Medium**
 
